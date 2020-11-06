@@ -8,12 +8,12 @@ The Developer Student Club at W&M wanted to focus on bringing computer science s
 #### Date: November 24, 2020
 Have you ever wanted to learn about web scraping? At this workshop geared towards Public Policy, IR, and government majors, we will explain how to use Python tools to extract current keywords describing a news topic.
 
-[Here](https://www.youtube.com/watch?v=0747M5iBZR8&feature=youtu.be) is the video recording from the workshop.
+[Here](https://youtu.be/0747M5iBZR8) is the video recording from the workshop.
 You can follow along with the code in the [lesson_1](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_1) folder. 
 
 ### [Workshop 2](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-computer-science-in-the-majors-sociology-history-and-linguistics/): Computer Science in the Majors: Sociology, History, and Linguistics
-#### Date: November 24, 2020
-Have you ever wanted to learn about web scraping? At this workshop geared towards Public Policy, IR, and government majors, we will explain how to use Python tools to extract current keywords describing a news topic.
+#### Date: October 15, 2020
+Computer Science can help facilitate text analysis and make processes much quicker. Come to this workshop to learn basic programming techniques from natural language processing to boost your text analysis skills!
 
-[Here](https://www.youtube.com/watch?v=0747M5iBZR8&feature=youtu.be) is the video recording from the workshop.
-You can follow along with the code in the [lesson_1](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_1) folder. 
+[Here](https://youtu.be/61b7A2tmnB4) is the video recording from the workshop.
+You can follow along with the code in the [lesson_2](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_2) folder. 
