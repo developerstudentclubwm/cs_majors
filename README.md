@@ -1,5 +1,5 @@
 # Computer Science in the Majors
-## Created by Developer Student Club Fall 2020
+## Created by Developer Student Club at W&M
 ## Fall 2020
 
 The Developer Student Club at W&M wanted to focus on bringing computer science skills to other majors through a series of hands-on workshops. The descriptions of each workshop with relevant links follow below. 
