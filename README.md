@@ -2,6 +2,8 @@
 ## Created by Developer Student Club at W&M
 ## Fall 2020
 
+![Computer science in the majors logo](Slide1.png)
+
 The Developer Student Club at W&M wanted to focus on bringing computer science skills to other majors through a series of hands-on workshops. The descriptions of each workshop with relevant links follow below. 
 
 ### [Workshop 1](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-computer-science-in-the-majors-public-policy-international-relations-and-government/): Public Policy, International Relations, & Government
