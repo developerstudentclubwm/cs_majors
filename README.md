@@ -11,3 +11,9 @@ Have you ever wanted to learn about web scraping? At this workshop geared toward
 [Here](https://www.youtube.com/watch?v=0747M5iBZR8&feature=youtu.be) is the video recording from the workshop.
 You can follow along with the code in the [lesson_1](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_1) folder. 
 
+### [Workshop 2](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-computer-science-in-the-majors-sociology-history-and-linguistics/): Computer Science in the Majors: Sociology, History, and Linguistics
+#### Date: November 24, 2020
+Have you ever wanted to learn about web scraping? At this workshop geared towards Public Policy, IR, and government majors, we will explain how to use Python tools to extract current keywords describing a news topic.
+
+[Here](https://www.youtube.com/watch?v=0747M5iBZR8&feature=youtu.be) is the video recording from the workshop.
+You can follow along with the code in the [lesson_1](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_1) folder. 
