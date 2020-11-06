@@ -24,7 +24,7 @@ You can follow along with the code in the [lesson_2](https://github.com/develope
 
 ### [Workshop 3](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-computer-science-in-the-majors-physics/): Physics
 #### Date: November 5, 2020
-#### Educator: Archana Radhakrishnan
+#### Educator: Luke Mrini & Archana Radhakrishnan
 At this workshop, you will learn how to use Mathematica to model and visualize physical systems. We will also learn to use the popular scientific typesetting system LaTeX to format and display our results. 
 
 [Here](https://youtu.be/677c-E-drZ8) is the video recording from the workshop.
