@@ -32,10 +32,12 @@ You can follow along with the code in the [lesson_3](https://github.com/develope
 
 ## Spring 2021
 
-### [Workshop 1](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-data-visualization-gis-and-javascript/): Data Visualization, GIS, and JavaScript
+### [Workshop 4](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-data-visualization-gis-and-javascript/): Data Visualization, GIS, and JavaScript
 #### Date: February 25, 2021
 #### Educator: Arya Ganesan
 In this one hour workshop, we will be exploring basic web development. Using the JavaScript library Leaflet and calls to the "Where the ISS at?" API, we will produce an interactive map showing the real-time over-earth location of the International Space Station. By the end of this lesson, you will understand how to write basic code in JavaScript and HTML, and how API data can be used to produce a tidy geospatial visualization.
+
+[Click here](lesson_4/cheat_sheet.pdf) to download the cheat sheet for the lesson!
 
 *The code and workshop recording will be posted soon!*
 
