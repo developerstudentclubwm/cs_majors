@@ -39,5 +39,7 @@ In this one hour workshop, we will be exploring basic web development. Using the
 
 [Click here](lesson_4/cheat_sheet.pdf) to download the cheat sheet for the lesson!
 
-*The code and workshop recording will be posted soon!*
+You can follow along on JSFiddle with either the [attendee](https://jsfiddle.net/aganesan_/h4oysrkc/24/) version (not filled in) or [instructor](https://jsfiddle.net/aganesan_/2w6qtfyd/) copy (completely filled in).
+
+*The recorded workshop will be up soon!*
 
