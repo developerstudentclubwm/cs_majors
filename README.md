@@ -41,5 +41,16 @@ In this one hour workshop, we will be exploring basic web development. Using the
 
 You can follow along on JSFiddle with either the [attendee version](https://jsfiddle.net/aganesan_/h4oysrkc/) (not filled in) or the [instructor copy](https://jsfiddle.net/aganesan_/2w6qtfyd/) (completely filled in).
 
-*The recorded workshop will be up soon!*
+[Here](https://www.youtube.com/watch?v=KaG9Injr9ps) is the video recording from the workshop.
+
+### [Workshop 5](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-machine-learning-for-medical-applications/): Machine Learning for Medical Applications
+#### Date: March 18, 2021
+#### Educator: Luke Mrini
+Using neural networks and deep learning, medical research has begun to show how common processes within medicine can be automated and operationalized. Join us for a brief introduction to neural networks, with an emphasis on the many modular building blocks that make this learning method particularly powerful. Once we've covered the basics, we'll use the python library Keras to build our own neural network. Then, we'll train our network on breast cancer data, see how to make predictions on unseen data, and discuss practical considerations for building effective networks.
+
+[Click here] to download the slides used in the lesson!
+
+You can follow along on Kaggle with either the [attendee version] (not filled in) or the [instructor copy] (completely filled in).
+
+*The lesson recording will be posted soon!*
 
