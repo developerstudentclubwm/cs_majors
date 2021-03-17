@@ -50,7 +50,7 @@ Using neural networks and deep learning, medical research has begun to show how 
 
 [Click here](lesson_5/machine_learning_presentation.pdf) to download the slides used in the lesson!
 
-You can follow along on Kaggle with either the **[attendee version]** (not filled in) or the **[instructor copy]** (completely filled in).
+You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/project-5-medicine-ml-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/project-5-medicine-ml-instructor) (completely filled in).
 
 *The lesson recording will be posted soon!*
 
