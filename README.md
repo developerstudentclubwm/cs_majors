@@ -48,7 +48,7 @@ You can follow along on JSFiddle with either the [attendee version](https://jsfi
 #### Educator: Luke Mrini
 Using neural networks and deep learning, medical research has begun to show how common processes within medicine can be automated and operationalized. Join us for a brief introduction to neural networks, with an emphasis on the many modular building blocks that make this learning method particularly powerful. Once we've covered the basics, we'll use the python library Keras to build our own neural network. Then, we'll train our network on breast cancer data, see how to make predictions on unseen data, and discuss practical considerations for building effective networks.
 
-[Click here](lesson_5/machine_learning_for_medical_applications_presentation.pdf) to download the slides used in the lesson!
+[Click here](lesson_5/machine_learning_presentation.pdf) to download the slides used in the lesson!
 
 You can follow along on Kaggle with either the **[attendee version]** (not filled in) or the **[instructor copy]** (completely filled in).
 
