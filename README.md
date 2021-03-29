@@ -35,7 +35,7 @@ You can follow along with the code in the [lesson_3](https://github.com/develope
 ### [Workshop 4](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-data-visualization-gis-and-javascript/): Data Visualization, GIS, and JavaScript
 #### Date: February 25, 2021
 #### Educator: Arya Ganesan
-In this one hour workshop, we will be exploring basic web development. Using the JavaScript library Leaflet and calls to the "Where the ISS at?" API, we will produce an interactive map showing the real-time over-earth location of the International Space Station. By the end of this lesson, you will understand how to write basic code in JavaScript and HTML, and how API data can be used to produce a tidy geospatial visualization.
+In this one hour workshop, we will be exploring basic web development. Using the JavaScript library `Leaflet` and calls to the "Where the ISS at?" API, we will produce an interactive map showing the real-time over-earth location of the International Space Station. By the end of this lesson, you will understand how to write basic code in JavaScript and HTML, and how API data can be used to produce a tidy geospatial visualization.
 
 [Click here](lesson_4/cheat_sheet.pdf) to download the cheat sheet for the lesson!
 
@@ -46,7 +46,7 @@ You can follow along on JSFiddle with either the [attendee version](https://jsfi
 ### [Workshop 5](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-machine-learning-for-medical-applications/): Machine Learning for Medical Applications
 #### Date: March 18, 2021
 #### Educator: Luke Mrini
-Using neural networks and deep learning, medical research has begun to show how common processes within medicine can be automated and operationalized. Join us for a brief introduction to neural networks, with an emphasis on the many modular building blocks that make this learning method particularly powerful. Once we've covered the basics, we'll use the python library Keras to build our own neural network. Then, we'll train our network on breast cancer data, see how to make predictions on unseen data, and discuss practical considerations for building effective networks.
+Using neural networks and deep learning, medical research has begun to show how common processes within medicine can be automated and operationalized. Join us for a brief introduction to neural networks, with an emphasis on the many modular building blocks that make this learning method particularly powerful. Once we've covered the basics, we'll use the python library `Keras` to build our own neural network. Then, we'll train our network on breast cancer data, see how to make predictions on unseen data, and discuss practical considerations for building effective networks.
 
 [Click here](lesson_5/machine_learning_presentation.pdf) to download the slides used in the lesson!
 
@@ -57,6 +57,6 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 ### [Cypher VI Hackathon Workshop](http://cypher.cs.wm.edu/): Introduction to Natural Language Processing
 #### Date: April 9, 2021
 #### Educator: Emilio Luz-Ricca
-Natural language processing (NLP) is one of the most exciting areas of computer science, where tools are being developed using machine learning and statistics to make traditionally unapproachable data sources (text data) more accessible! In conjunction with modern web scraping techniques, NLP can be used to quickly parse and analyze the massive amount of text data online. Join Emilio Luz-Ricca from W&M’s Developer Student Club for an introductory tutorial to NLP in python with spaCy and TextBlob applied to data that we will scrape using the beautifulsoup and Newspaper3k libraries. Prior experience with python is preferable, but by no means necessary!
+Natural language processing (NLP) is one of the most exciting areas of computer science, where tools are being developed using machine learning and statistics to make traditionally unapproachable data sources (text data) more accessible! In conjunction with modern web scraping techniques, NLP can be used to quickly parse and analyze the massive amount of text data online. Join Emilio Luz-Ricca from W&M’s Developer Student Club for an introductory tutorial to NLP in python with `spaCy` and `TextBlob` applied to data that we will scrape using the `Beautiful Soup` and `Newspaper3k` libraries. Prior experience with python is preferable, but by no means necessary!
 
 You can follow along on Kaggle with either the **attendee version** (not filled in) or the **instructor copy** (completely filled in) - *links coming soon!*
