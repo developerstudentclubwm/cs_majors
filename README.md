@@ -52,7 +52,7 @@ Using neural networks and deep learning, medical research has begun to show how 
 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/project-5-medicine-ml-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/project-5-medicine-ml-instructor) (completely filled in).
 
-*The lesson recording will be posted soon!*
+[Here](https://www.youtube.com/watch?v=A9g5zrgC1pQ) is the video recording from the workshop.
 
 ### [Cypher VI Hackathon Workshop](http://cypher.cs.wm.edu/): Introduction to Natural Language Processing
 #### Date: April 9, 2021
