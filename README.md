@@ -56,7 +56,9 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 ### [Cypher VI Hackathon Workshop](http://cypher.cs.wm.edu/): Introduction to Natural Language Processing
 #### Date: April 9, 2021
-#### Educator: Emilio Luz-Ricca
-Natural language processing (NLP) is one of the most exciting areas of computer science, where tools are being developed using machine learning and statistics to make traditionally unapproachable data sources (text data) more accessible! In conjunction with modern web scraping techniques, NLP can be used to quickly parse and analyze the massive amount of text data online. Join Emilio Luz-Ricca from W&M’s Developer Student Club for an introductory tutorial to NLP in python with `spaCy` and `TextBlob` applied to data that we will scrape using the `Beautiful Soup` and `Newspaper3k` libraries. Prior experience with python is preferable, but by no means necessary!
+#### Educator: Emilio Luz-Ricca & Clare Heinbaugh
+Natural language processing (NLP) is one of the most exciting areas of computer science, where tools are being developed using machine learning and statistics to make traditionally unapproachable data sources (text data) more accessible! In conjunction with modern web scraping techniques, NLP can be used to quickly parse and analyze the massive amount of text data online. Join Emilio and Clare from W&M’s Developer Student Club for an introductory tutorial to NLP in python with `spaCy` and `TextBlob` applied to data that we will scrape using the `Beautiful Soup` and `Newspaper3k` libraries. Prior experience with python is preferable, but by no means necessary!
+
+[Click here](cypher_workshop/cypher_workshop_presentation.pdf) to download the slides used in the lesson!
 
 You can follow along on Kaggle with either the **attendee version** (not filled in) or the **instructor copy** (completely filled in) - *links coming soon!*
