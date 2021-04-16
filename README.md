@@ -65,8 +65,7 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 [Here](https://www.youtube.com/watch?v=c-79_i4SDhI) is the video recording from the workshop.
 
-### [Workshop 6](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-agent-based-modeling-with-netlogo/): 
-Agent-Based Modeling with NetLogo
+### [Workshop 6](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-agent-based-modeling-with-netlogo/): Agent-Based Modeling with NetLogo
 #### Date: April 22, 2021
 #### Educator: Pinar Caglayan & Paul Scemama
 Agent-based modeling (ABM) enables researchers to model complex systems of interacting parts using a simple, intuitive framework. ABMs have shown interesting results in a range of fields, from the biological sciences all the way to political science. In this short workshop, we will introduce the basics of ABMs and describe the key components to include in any ABM. Then, we will approach a model that simulates the growth of metastatic tumors using the popular ABM software package, [NetLogo](https://ccl.northwestern.edu/netlogo/). Join us to learn about one of the most versatile (and fun) simulation-based modeling techniques!
