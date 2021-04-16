@@ -56,7 +56,7 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 ### [Cypher VI Hackathon Workshop](http://cypher.cs.wm.edu/): Introduction to Natural Language Processing
 #### Date: April 9, 2021
-#### Educator: Emilio Luz-Ricca & Clare Heinbaugh
+#### Educators: Emilio Luz-Ricca & Clare Heinbaugh
 Natural language processing (NLP) is one of the most exciting areas of computer science, where tools are being developed using machine learning and statistics to make traditionally unapproachable data sources (text data) more accessible! In conjunction with modern web scraping techniques, NLP can be used to quickly parse and analyze the massive amount of text data online. Join Emilio and Clare from W&M’s Developer Student Club for an introductory tutorial to NLP in python with `spaCy` and `TextBlob` applied to data that we will scrape using the `Beautiful Soup` and `Newspaper3k` libraries. Prior experience with python is preferable, but by no means necessary!
 
 [Click here](cypher_workshop/cypher_workshop_presentation.pdf) to download the slides used in the lesson!
@@ -64,3 +64,13 @@ Natural language processing (NLP) is one of the most exciting areas of computer 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-instructor) (completely filled in).
 
 [Here](https://www.youtube.com/watch?v=c-79_i4SDhI) is the video recording from the workshop.
+
+### [Workshop 6](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-agent-based-modeling-with-netlogo/): 
+Agent-Based Modeling with NetLogo
+#### Date: April 22, 2021
+#### Educator: Pinar Caglayan & Paul Scemama
+Agent-based modeling (ABM) enables researchers to model complex systems of interacting parts using a simple, intuitive framework. ABMs have shown interesting results in a range of fields, from the biological sciences all the way to political science. In this short workshop, we will introduce the basics of ABMs and describe the key components to include in any ABM. Then, we will approach a model that simulates the growth of metastatic tumors using the popular ABM software package, [NetLogo](https://ccl.northwestern.edu/netlogo/). Join us to learn about one of the most versatile (and fun) simulation-based modeling techniques!
+
+We will show all code in this workshop in the [desktop version](https://ccl.northwestern.edu/netlogo/download.shtml) of NetLogo. While you can use the [online version](http://www.netlogoweb.org/launch) if you want, downloading NetLogo will make the experience much more seamless!
+
+The workshop slides, code, and recording will all be up soon!
