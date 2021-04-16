@@ -62,3 +62,5 @@ Natural language processing (NLP) is one of the most exciting areas of computer 
 [Click here](cypher_workshop/cypher_workshop_presentation.pdf) to download the slides used in the lesson!
 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-instructor) (completely filled in).
+
+[Here](https://www.youtube.com/watch?v=c-79_i4SDhI) is the video recording from the workshop.
