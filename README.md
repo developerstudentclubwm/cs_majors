@@ -72,6 +72,6 @@ Agent-based modeling (ABM) enables researchers to model complex systems of inter
 
 We will show all code in this workshop in the [desktop version](https://ccl.northwestern.edu/netlogo/download.shtml) of NetLogo. While you can use the [online version](http://www.netlogoweb.org/launch) if you want, downloading NetLogo will make the experience much more seamless!
 
-[Click here](lesson_6/ABM_presentation.pdf) to download the slides used in the lesson!
+[Click here](lesson_6/ABM_presentation.pptx) to download the slides used in the lesson!
 
 You can folow along with either the [attendee version](lesson_6/DSC-AprilWorkshop-AttendeeV.nlogo) (not filled in) or the [instructor copy](lesson_6/DSC-AprilWorkshop-InstructorV.nlogo) (completely filled in).
