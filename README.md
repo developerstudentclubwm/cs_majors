@@ -24,6 +24,8 @@ Computer Science can help facilitate text analysis and make processes much quick
 [Here](https://youtu.be/61b7A2tmnB4) is the video recording from the workshop.
 You can follow along with the code in the [lesson_2](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_2) folder. 
 
+----
+
 ### [Workshop 3](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-computer-science-in-the-majors-physics/): Physics
 #### Date: November 5, 2020
 #### Educators: Luke Mrini & Archana Radhakrishnan
@@ -31,6 +33,8 @@ At this workshop, you will learn how to use Mathematica to model and visualize p
 
 [Here](https://youtu.be/677c-E-drZ8) is the video recording from the workshop.
 You can follow along with the code in the [lesson_3](https://github.com/developerstudentclubwm/cs_majors/tree/main/lesson_3) folder. 
+
+----
 
 ## Spring 2021
 
@@ -45,6 +49,8 @@ You can follow along on JSFiddle with either the [attendee version](https://jsfi
 
 [Here](https://www.youtube.com/watch?v=KaG9Injr9ps) is the video recording from the workshop.
 
+----
+
 ### [Workshop 5](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-machine-learning-for-medical-applications/): Machine Learning for Medical Applications
 #### Date: March 18, 2021
 #### Educator: Luke Mrini
@@ -56,6 +62,8 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 [Here](https://www.youtube.com/watch?v=A9g5zrgC1pQ) is the video recording from the workshop.
 
+----
+
 ### [Cypher VI Hackathon Workshop](http://cypher.cs.wm.edu/): Introduction to Natural Language Processing
 #### Date: April 9, 2021
 #### Educators: Emilio Luz-Ricca & Clare Heinbaugh
@@ -66,6 +74,8 @@ Natural language processing (NLP) is one of the most exciting areas of computer 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/dsc-cypher-workshop-nlp-instructor) (completely filled in).
 
 [Here](https://www.youtube.com/watch?v=c-79_i4SDhI) is the video recording from the workshop.
+
+----
 
 ### [Workshop 6](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-agent-based-modeling-with-netlogo/): Agent-Based Modeling with NetLogo
 #### Date: April 22, 2021
@@ -79,6 +89,8 @@ We will show all code in this workshop in the [desktop version](https://ccl.nort
 You can follow along with either the [attendee version](lesson_6/DSC-AprilWorkshop-AttendeeV.nlogo) (not filled in) or the [instructor copy](lesson_6/DSC-AprilWorkshop-InstructorV.nlogo) (completely filled in).
 
 _Lesson recording coming soon!_
+
+----
 
 ### [Workshop 7](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-scientific-computing-visualization/): Scientific Computing & Visualization
 #### Date: May 6, 2021
