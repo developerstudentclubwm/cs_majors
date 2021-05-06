@@ -78,8 +78,7 @@ You can follow along with either the [attendee version](lesson_6/DSC-AprilWorksh
 
 _Lesson recording coming soon!_
 
-### [Workshop 7](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-scientific-computing-visualization/): 
-Scientific Computing & Visualization
+### [Workshop 7](https://dsc.community.dev/events/details/developer-student-clubs-william-mary-presents-scientific-computing-visualization/): Scientific Computing & Visualization
 #### Date: May 6, 2021
 #### Educator: Archana Radhakrishnan
 In our final lesson of the year, we will look at the basics of particle discovery through a computational lens. Combining data visualization techniques with rudimentary curve-fitting algorithms, we will see how computer science can be applied to experimental data to facilitate analyses in particle physics. We will be giving a high-level primer on the physics principles at play before hopping into the coding portion of the lesson, so no physics background is needed!
