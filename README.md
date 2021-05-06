@@ -97,4 +97,8 @@ _Lesson recording coming soon!_
 #### Educator: Archana Radhakrishnan
 In our final lesson of the year, we will look at the basics of particle discovery through a computational lens. Combining data visualization techniques with non-linear regression, we will see how large particle accelerators like the large hadron collider (LHC) detect new particles in practice. We will be giving a high-level primer on the physics principles at play before hopping into the coding portion of the lesson, so no physics background is needed!
 
-_Lesson materials and recording coming soon!_
+[Click here](lesson_7/dsc_physics_event.pdf) to download the slides used in the lesson!
+
+You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/project-6-scientific-computing-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/project-6-scientific-computing-instructor) (completely filled in).
+
+_Lesson recording coming soon!_
