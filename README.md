@@ -88,7 +88,7 @@ We will show all code in this workshop in the [desktop version](https://ccl.nort
 
 You can follow along with either the [attendee version](lesson_6/DSC-AprilWorkshop-AttendeeV.nlogo) (not filled in) or the [instructor copy](lesson_6/DSC-AprilWorkshop-InstructorV.nlogo) (completely filled in).
 
-_Lesson recording coming soon!_
+[Here](https://www.youtube.com/watch?v=A9AyhM0StDs) is the video recording from the workshop.
 
 ----
 
