@@ -101,4 +101,4 @@ In our final lesson of the year, we will look at the basics of particle discover
 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/project-6-scientific-computing-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/project-6-scientific-computing-instructor) (completely filled in).
 
-_Lesson recording coming soon!_
+[Here](https://youtu.be/j6JWtACE7xM) is the video recording from the workshop.
